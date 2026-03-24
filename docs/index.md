@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# StashDB Contribution Guidelines
+# StashDB Contribution Guideliness
 {: .no_toc }
 **Welcome to the StashDB Guidelines!**
 
